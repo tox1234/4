@@ -19,7 +19,7 @@ ERROR500 = "C:/Users/User/PycharmProjects/targil4/ROOT-WEB/imgs/500_internal_err
 ERROR400 = "C:/Users/User/PycharmProjects/targil4/ROOT-WEB/imgs/400_bad_request.png"
 ERROR403 = "C:/Users/User/PycharmProjects/targil4/ROOT-WEB/imgs/403_forbidden.png"
 IP = '0.0.0.0'
-PORT = 8080
+PORT = 80
 SOCKET_TIMEOUT = 2
 
 
